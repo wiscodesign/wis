@@ -25,13 +25,13 @@ Wis 是 [Wis.design](https://wis.design) 推出的开源设计系统，致力于
 
 你可以在这里找到我们的所有资源包的列表
 
-| 包名      | 描述 |
+| 资源名	      | 描述 |
 | :------- | :----------- |
-| [wiscore](https://github.com/wisdesignsystem/wis-cli/tree/main/packages/core) | Wis核心包，包含路由及微前端运行时等资源 |
-| [@wisdesign/wis-plugin](https://github.com/wisdesignsystem/wis-cli/tree/main/packages/core) | 用于将wis的工程化能力接入社区脚手架 |
-| [@wisdesign/cli](https://github.com/wisdesignsystem/wis-cli/tree/main/packages/cli)      | Manage the tools related to the wis design R&D process|
-| [@wisdesign/lsicon](https://github.com/wisdesignsystem/lsicon)      | Elegant and Open-Source Icon Library|
-| [@wisdesign/lsicon-figma](https://github.com/wisdesignsystem/lsicon-figma) | A Figma plugin to manage icon component |
+| [wiscore](https://github.com/wisdesignsystem/wis-cli/tree/main/packages/core) | Wis 的核心功能包，包含路由管理、微前端运行时等基础能力 |
+| [@wisdesign/wis-plugin](https://github.com/wisdesignsystem/wis-cli/tree/main/packages/core) | 用将 Wis 的工程能力接入第三方脚手架的插件，便于集成使用 |
+| [@wisdesign/cli](https://github.com/wisdesignsystem/wis-cli/tree/main/packages/cli)      | Wis 相关工具的命令行工具集合|
+| [@wisdesign/lsicon](https://github.com/wisdesignsystem/lsicon)      | 优雅且开源的 React 图标库|
+| [@wisdesign/lsicon-figma](https://github.com/wisdesignsystem/lsicon-figma) | 基于 Figma 的图标管理插件 |
 
 ## 文档
 请在我们的[文档网站](https://wis.design/getting-started/quick-start)查看完整的操作指南 

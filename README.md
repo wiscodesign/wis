@@ -27,11 +27,11 @@ You can find a list of all our resource packs here.
 
 | Package name	      | Description |
 | :------- | :----------- |
-| [wiscore](https://github.com/wisdesignsystem/wis-cli/tree/main/packages/core) | Wis核心包，包含路由及微前端运行时等资源 |
-| [@wisdesign/wis-plugin](https://github.com/wisdesignsystem/wis-cli/tree/main/packages/core) | 用于将wis的工程化能力接入社区脚手架 |
-| [@wisdesign/cli](https://github.com/wisdesignsystem/wis-cli/tree/main/packages/cli)      | Manage the tools related to the wis design R&D process|
-| [@wisdesign/lsicon](https://github.com/wisdesignsystem/lsicon)      | Elegant and Open-Source Icon Library|
-| [@wisdesign/lsicon-figma](https://github.com/wisdesignsystem/lsicon-figma) | A Figma plugin to manage icon component |
+| [wiscore](https://github.com/wisdesignsystem/wis-cli/tree/main/packages/core) | Core package with routing and micro-frontend runtime support |
+| [@wisdesign/wis-plugin](https://github.com/wisdesignsystem/wis-cli/tree/main/packages/core) | Plugin for integrating Wis into third-party scaffolds |
+| [@wisdesign/cli](https://github.com/wisdesignsystem/wis-cli/tree/main/packages/cli)      | Wis Command Line Tool Collection for Related Utilities |
+| [@wisdesign/lsicon](https://github.com/wisdesignsystem/lsicon)      | Elegant and open-source React icon library |
+| [@wisdesign/lsicon-figma](https://github.com/wisdesignsystem/lsicon-figma) | Figma-based icon management plugin |
 
 ## Documentation
 Please refer to our [documentation website](https://wis.design/getting-started/quick-start) for the complete operation guide.
